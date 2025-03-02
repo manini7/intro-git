@@ -6,3 +6,8 @@
     color: #fff;
     background-color: #000;
 }
+.first-desc {
+    padding: 3rem;
+    line-height: 1.4;
+    background-color: yellowgreen;
+}
